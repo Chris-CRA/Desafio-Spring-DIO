@@ -73,4 +73,4 @@ Para produção, a integração real com o token OAuth 2.0 da API do Spotify pod
 Projeto desenvolvido como estudo de Spring Framework + REST + Padrões de Projeto.
 Inspirado na API oficial do Spotify.
 
-<p align="center"> <b>💚 Let the music play with Spring! 💚</b> </p>
+<p align="center"><strong>💚 Let the music play with Spring! 💚</strong></p>
